@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "scripts": {
+        "test": "mocha --timeout 60000"
+    },
+    "devDependencies": {
+        "@google-cloud/local-auth": "^2.1.0",
+        "aws-sdk": "^2.1579.0",
+        "axios": "^1.6.8",
+        "chai": "^5.1.0",
+        "dotenv": "^16.4.5",
+        "formdata-node": "^6.0.3",
+        "googleapis": "^105.0.0",
+        "mocha": "^10.3.0",
+        "puppeteer": "^22.7.1"
+    }
+}
